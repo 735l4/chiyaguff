@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Chak kottaunu ko faida ra cancer ko upachar",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+        "author": "Ushineko Aalu",
+        "date": "22 Feb",
+        "reaction": 20,
+        "comment": 30,
+        "readCount": 2
+    },
+    {
+        "id": 2,
+        "title": "Tarkari kheti ko utpadan",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+        "author": "Garam Masala",
+        "date": "22 Feb",
+        "reaction": 20,
+        "comment": 30,
+        "readCount": 2
+    },
+    {
+        "id": 3,
+        "title": "Krishi Pradhan Desh Nepal ra hamro unnati pragadi",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+        "author": "Umaleko farshi",
+        "date": "22 Feb",
+        "reaction": 20,
+        "comment": 30,
+        "readCount": 2
+    },
+    {
+        "id": 4,
+        "title": "How to make boiling water",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+        "author": "Bhuteko karela",
+        "date": "22 Feb",
+        "reaction": 20,
+        "comment": 30,
+        "readCount": 2
+    }
+]
